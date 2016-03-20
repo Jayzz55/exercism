@@ -1,0 +1,7 @@
+(clojre.string/ends-with "4?" "?")
+(clojure.string/ends-with "4?" "?")
+(clojure.string/ends-with? "4?" "?")
+exit
+(clojure/ends-with? "Does this cryogenic chamber make me look fat?" "?")
+(clojure.string/ends-with? "Does this cryogenic chamber make me look fat?" "?")
+exit
